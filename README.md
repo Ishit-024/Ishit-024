@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Ishit%20Setia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=Ishit%20Setia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Analytics+Enthusiast;Machine+Learning+Developer;Explainable+AI+Researcher;Turning+Data+Into+Insights" />
@@ -9,7 +9,7 @@
 <h1 align="center">Hi 👋, I'm Ishit Setia</h1>
 
 <h3 align="center">
-Data Science & Data Analytics Enthusiast
+Data Science • Data Analytics • Machine Learning
 </h3>
 
 <p align="center">
@@ -18,7 +18,7 @@ Data Science & Data Analytics Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Undergraduate in **Electronics and Computer Engineering (ECM)** at **VIT Chennai**
 - 📊 Strong interest in **Data Analytics, Machine Learning, and Data-driven decision making**
@@ -28,7 +28,7 @@ Data Science & Data Analytics Enthusiast
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 - Data Analytics & Data Exploration  
 - Machine Learning Applications  
@@ -51,16 +51,16 @@ Data Science & Data Analytics Enthusiast
 ### NLP & Machine Learning
 
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge&logoColor=white)
-![Gensim](https://img.shields.io/badge/Gensim-184D85?style=for-the-badge&logoColor=white)
-![Word2Vec](https://img.shields.io/badge/Word2Vec-21D4FD?style=for-the-badge&logoColor=white)
-![GloVe](https://img.shields.io/badge/GloVe-EA4335?style=for-the-badge&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-007396?style=for-the-badge)
+![Gensim](https://img.shields.io/badge/Gensim-184D85?style=for-the-badge)
+![Word2Vec](https://img.shields.io/badge/Word2Vec-21D4FD?style=for-the-badge)
+![GloVe](https://img.shields.io/badge/GloVe-EA4335?style=for-the-badge)
 
 ### Data Analysis & Visualization
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ---
 
@@ -110,6 +110,24 @@ Data Science & Data Analytics Enthusiast
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ishit-024/Ishit-024/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ishit-024&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
+
+---
+
 # 💡 Philosophy
 
 > Turning data into meaningful insights and intelligent solutions.
@@ -126,7 +144,7 @@ Data Science & Data Analytics Enthusiast
 
 # 😄 Fun Fact
 
-🎤 I am also a **professional singer and performer**, with numerous awards in music competitions.
+🎤 I am also a **professional singer and performer**, combining creativity with technology.
 
 ---
 
