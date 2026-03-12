@@ -13,8 +13,6 @@ Data Science & Data Analytics Enthusiast
 </h3>
 
 <p align="center">
-🎓 B.Tech in <b>Electronics and Computer Engineering (ECM)</b> — VIT Chennai <br>
-📊 Focused on Data Analytics, Machine Learning & Explainable AI <br>
 🧠 Passionate about extracting insights from data and building intelligent systems
 </p>
 
