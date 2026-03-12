@@ -111,13 +111,6 @@ Data Science • Data Analytics • Machine Learning
 ---
 
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Ishit-024/Ishit-024/blob/output/github-contribution-grid-snake.svg)
-
----
-
-
 # 💡 Philosophy
 
 > Turning data into meaningful insights and intelligent solutions.
