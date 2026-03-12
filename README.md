@@ -11,16 +11,6 @@ Data Science & Data Analytics Enthusiast
 </p>
 
 ---
-
-### 👨‍💻 About Me
-
-- 🎓 Undergraduate in **Electronics and Computer Engineering (ECM)** at **VIT Chennai**
-- 📊 Strong interest in **Data Analytics, Machine Learning, and Data-driven decision making**
-- 🤖 Building projects involving **ML models, recommendation systems, and AI applications**
-- 📈 Interested in **data exploration, predictive modeling, and interpretable AI**
-- 🎤 Outside tech, I am a **professional singer and performer**
-
----
 ### 🧠 Machine Learning & NLP:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,6 +27,16 @@ Data Science & Data Analytics Enthusiast
 ![GloVe](https://img.shields.io/badge/GloVe-EA4335?style=for-the-badge&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 👨‍💻 About Me
+
+- 🎓 Undergraduate in **Electronics and Computer Engineering (ECM)** at **VIT Chennai**
+- 📊 Strong interest in **Data Analytics, Machine Learning, and Data-driven decision making**
+- 🤖 Building projects involving **ML models, recommendation systems, and AI applications**
+- 📈 Interested in **data exploration, predictive modeling, and interpretable AI**
+- 🎤 Outside tech, I am a **professional singer and performer**
+
+---
 
 ### 🎯 Current Focus
 
