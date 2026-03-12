@@ -112,12 +112,6 @@ Data Science & Data Analytics Enthusiast
 
 ---
 
-# 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ishit-024&style=for-the-badge)
-
----
-
 # 💡 Philosophy
 
 > Turning data into meaningful insights and intelligent solutions.
