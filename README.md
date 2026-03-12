@@ -125,11 +125,6 @@ Passionate about extracting insights from data and building intelligent systems
 
 ---
 
-# 😄 Fun Fact
-
-🎤 I am also a **professional singer and performer**, combining creativity with technology.
-
----
 
 ⭐ **Open to opportunities, collaborations, and projects in Data Analytics and Data Science.**
 
