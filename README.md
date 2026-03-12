@@ -13,7 +13,7 @@ Data Science • Data Analytics • Machine Learning
 </h3>
 
 <p align="center">
-🧠 Passionate about extracting insights from data and building intelligent systems
+Passionate about extracting insights from data and building intelligent systems
 </p>
 
 ---
