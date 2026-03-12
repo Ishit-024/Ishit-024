@@ -86,7 +86,17 @@ Data Science & Data Analytics Enthusiast
 </p>
 
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ishit-024&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ishit-024&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishit-024&layout=compact&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ishit-024&theme=tokyo-night)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;Machine+Learning+Enthusiast;Python+Developer&center=true&width=500&height=50)
 
 ### 💡 Philosophy
 
